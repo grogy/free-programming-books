@@ -35,6 +35,7 @@
 
 ### Language Agnostic
 #### Algoritmy a datové struktury
+* [Průvodce labyrintem algoritmů](https://knihy.nic.cz/cs/detail/30/)
 * [Základy algoritmizace](http://www.root.cz/knihy/zaklady-algoritmizace/stahnout/950/) (PDF)
 
 
